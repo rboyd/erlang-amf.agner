@@ -1,0 +1,6 @@
+{name, "erlang-amf"}.
+{description, "Erlang Action Message Format Library"}.
+{homepage, "https://github.com/rboyd/erlang-amf"}.
+{url, {git, "https://github.com/rboyd/erlang-amf.git", {branch, "master"}}}.
+{authors, ["Ruslan Babayev <ruslan@babayev.com>"]}.
+{license, "BSD2", "LICENSE"}.
